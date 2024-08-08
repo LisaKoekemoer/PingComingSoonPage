@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PingComingSoonPage/static/css/main.f4f5a311.css",
+    "main.js": "/PingComingSoonPage/static/js/main.ebc3cdde.js",
+    "static/js/453.b2681547.chunk.js": "/PingComingSoonPage/static/js/453.b2681547.chunk.js",
+    "static/media/illustration-dashboard.png": "/PingComingSoonPage/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "static/media/logo.svg": "/PingComingSoonPage/static/media/logo.f52e67976c3cbfd86b311a2720d7e396.svg",
+    "index.html": "/PingComingSoonPage/index.html",
+    "static/media/instagram-icon.svg": "/PingComingSoonPage/static/media/instagram-icon.69c461888e71be361b561d7fbd961c1f.svg",
+    "static/media/twitter-icon.svg": "/PingComingSoonPage/static/media/twitter-icon.f43f9157c99e13aa1e691b2653ed25d8.svg",
+    "static/media/facebook-icon.svg": "/PingComingSoonPage/static/media/facebook-icon.f837258136340daa0c58cc485995be8c.svg",
+    "main.f4f5a311.css.map": "/PingComingSoonPage/static/css/main.f4f5a311.css.map",
+    "main.ebc3cdde.js.map": "/PingComingSoonPage/static/js/main.ebc3cdde.js.map",
+    "453.b2681547.chunk.js.map": "/PingComingSoonPage/static/js/453.b2681547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f5a311.css",
+    "static/js/main.ebc3cdde.js"
+  ]
+}
