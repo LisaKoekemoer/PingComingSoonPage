@@ -1,0 +1,104 @@
+body {
+  font-family: "Libre Franklin", sans-serif;
+}
+
+.logo {
+  margin-left: 660px;
+  margin-top: 50px;
+}
+
+.cta {
+  text-align: center;
+}
+
+.cta h1 {
+  font-size: 48px;
+  font-weight: 300;
+  color: #969696;
+}
+
+.cta h1 span {
+  font-weight: bold;
+  color: #15202A;
+}
+
+.cta p {
+  font-size: 20px;
+  font-weight: 300;
+  color: #15202A;
+}
+
+.notify {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+input {
+  width: 401px;
+  height: 56px;
+  padding-left: 20px;
+  margin-right: 16px;
+  border-radius: 30px;
+  border: 2px solid #C2D3FF;
+}
+
+input::placeholder {
+  color: #B8C7ED;
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.notify-btn {
+  width: 200px;
+  border-radius: 30px;
+  border: none;
+  background-color: #4C7BF3;
+  font-size: 16px;
+  font-weight: 600;
+  color: #FFFFFF;
+}
+
+.dashboard {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.dashboard img{
+  width: 640px;
+  height: 383px;
+}
+
+.socials {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 120px;
+  height: 31px;
+  margin-top: 50px;
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 12px;
+  font-weight: 300;
+  color: #969696;
+}
+
+.error-message {
+  font-size: 12px;
+  font-style: italic;
+  color: #FF5466;
+  margin-left: 410px;
+  margin-top: 10px;
+}
+
+.error-input {
+  color: #15202A;
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  border: 1px solid #FF5466; 
+}
